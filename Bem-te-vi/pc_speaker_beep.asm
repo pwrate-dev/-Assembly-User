@@ -1,5 +1,5 @@
 ; Hoje Vamos Colocar Nosso Bem-Te-Vi  (Pc Speaker) pra cantar
-; O Canto do Bem-Te-Vi (PC Speaker) - Versão Final
+; O Canto do Bem-Te-Vi (PC Speaker) 
 section .text
 global _start
 
